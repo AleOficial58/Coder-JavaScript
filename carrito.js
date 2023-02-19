@@ -22,3 +22,5 @@ export function procesarPedido() {
     console.log(contenedorCompra);
   });
 }
+
+
