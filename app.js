@@ -308,3 +308,4 @@ function procesarPedido() {
  localStorage.clear()
 
  }
+ 
