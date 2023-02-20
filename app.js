@@ -8,6 +8,14 @@ const stockProductos = [
     img: "img/last.png" ,
   },
   {
+    id: 1,
+    nombre: "The Last Of Us 2",
+    cantidad: 1,
+    desc: "The Last of Us Part II es un videojuego de terror y de acción y aventuras de 2020 desarrollado por Naughty Dog y publicado por Sony Interactive Entertainment para PlayStation 4.",
+    precio: 15200,
+    img: "img/last.png" ,
+  },
+  {
     id: 2,
     nombre: "Elden ring",
     cantidad: 1,
