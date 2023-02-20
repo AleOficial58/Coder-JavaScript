@@ -5,7 +5,7 @@ const stockProductos = [
     cantidad: 1,
     desc: "The Last of Us Part II es un videojuego de terror y de acción y aventuras de 2020 desarrollado por Naughty Dog y publicado por Sony Interactive Entertainment para PlayStation 4.",
     precio: 15200,
-    img: "img/last.png" ,
+    img: "img/last.jpg" ,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const stockProductos = [
     cantidad: 1,
     desc: "Elden ring, juego salido hace unos meses, recientemente nuevo",
     precio: 17400,
-    img: "img/ELDEN.png",
+    img: "img/eldenring.jpg",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const stockProductos = [
     cantidad: 1,
     desc: "God of War Ragnarök es un videojuego de acción y aventuras desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment. Se lanzó en todo el mundo el 9 de noviembre de 2022 para PlayStation 4 y PlayStation 5, lo que marca el primer lanzamiento entre generaciones de la serie.",
     precio: 23000,
-    img: "img/GOD.png",
+    img: "img/ragnarok.jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const stockProductos = [
     cantidad: 1,
     desc: "Hogwarts Legacy es un juego de rol de acción de 2023 desarrollado por Avalanche Software y publicado por Warner Bros. Games bajo su sello Portkey Games. El juego está ambientado en el universo Wizarding World, basado en las novelas de Harry Potter, y fue lanzado para PlayStation 5, Windows y Xbox Series X/S en 2023.",
     precio: 33200,
-    img: "img/HOGWARTS.png",
+    img: "img/hogwarts.jpg",
   },
   {
     id: 6,
@@ -78,6 +78,14 @@ const stockProductos = [
     desc: "Fortnite es un videojuego del año 2017 desarrollado por la empresa Epic Games lanzado como diferentes paquetes de software que presentan diferentes modos de juego, pero que comparten el mismo motor de juego y mecánicas. Fue anunciado en los premios Spike Video Game Awards en 2011.",
     precio: 5200,
     img: "img/fornite.jpg",
+  },
+  {
+    id: 11,
+    nombre: "Far Cry 6",
+    cantidad: 1,
+    desc: "Fortnite es un videojuego del año 2017 desarrollado por la empresa Epic Games lanzado como diferentes paquetes de software que presentan diferentes modos de juego, pero que comparten el mismo motor de juego y mecánicas. Fue anunciado en los premios Spike Video Game Awards en 2011.",
+    precio: 22200,
+    img: "img/farcry6.jpg",
   },
 ];
 let carrito = [];
